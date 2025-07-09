@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'm John 👋
 <div>
   <img src="https://github.com/jcswanson/tisi-images/blob/main/tisi-logo-light-pix.png?raw=true" title="Tisi" alt="Tisi" width="100" height="100"/>
 </div>
-- I’m currently involved building an SMS text message to search AI service called Text It Search It, aka Tisi. I have built this project using React Typescript and Express.js, while utilizing GitHub Action workflows to dockerize and deploy it to AWS EC2 and ECR. The experience I've gained during this project has been immense. I built the service, ran a year of beta tests, adopted the Stripe API to set up payment processing, took advantage of AWS Cognito SDK to automate some of the authentication, stored user information using an AWS DynamoDB database, and used AWS Lambdas to facilitate the service and process Stripe webhooks to keep the database of Stripe and AWS in sync.
+- I’m currently involved building an SMS text message to search AI service called Text It Search It, aka Tisi. I have built this project using React Typescript and Express.js, while utilizing GitHub Action workflows to dockerize and deploy it to AWS EC2 and ECR. The experience I've gained during this project has been immense. I built the service, ran a year of beta tests, adopted the Stripe API to set up payment processing, took advantage of AWS Cognito SDK to automate some of the authentication, stored user information using an AWS DynamoDB database, and used AWS Lambdas to facilitate the service and process Stripe webhooks to keep the database of Stripe and AWS DynamoDB in sync.
 
 <!--
 **jcswanson/jcswanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jcswanson&theme=light&background=f5f5f5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jcswanson&theme=light&background=f2f2f2)](https://git.io/streak-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
