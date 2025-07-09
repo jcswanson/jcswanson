@@ -1,6 +1,8 @@
 ## Hi there, I'm John 👋
 <div>
+<p align="center">
   <img src="https://github.com/jcswanson/tisi-images/blob/main/tisi-logo-light-pix.png?raw=true" title="Tisi" alt="Tisi" width="100" height="100"/>
+</p>
 </div>
 - I’m currently involved building an SMS text message to search AI service called Text It Search It, aka Tisi, in coordination with Sierra Nevada Digital LLC. They've given me AWS credits to use towards a goal they would like implemented but didn't have the expertise with AWS to do. So, I have built this project using React Typescript and Express.js, while utilizing GitHub Action workflows to dockerize and deploy it to AWS EC2 and ECR. The experience I've gained during this project has been immense. I built the service, ran a year of beta tests, adopted the Stripe API to set up payment processing, took advantage of AWS Cognito SDK to automate some of the authentication, stored user information using an AWS DynamoDB database, and used AWS Lambdas to facilitate the service and process Stripe webhooks to keep the database of Stripe and AWS DynamoDB in sync.
 
@@ -24,6 +26,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -36,7 +39,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</p>
 </div>
 ### Oh, How I love cheesy coding jokes way too much...
+<p align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dfdfdf&codeColor=%232a8b7a&textColor=%23333333&qColor=%23015eaa&aColor=%23af3232" alt="Jokes Card" />
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dfdfdf&codeColor=%232a8b7a&textColor=%23333333&qColor=%23015eaa&aColor=%23af3232)
+</p>
