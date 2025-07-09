@@ -1,8 +1,10 @@
 ## Hi there 👋
-
-
-
-- 🔭 I’m currently working on a SMS text message to search AI servvice called Text It Search It, aka Tisi. I have built this software using React Typescript and used GitHub Action workflows to deploy it to Amazon Web Service's EC2. It uses AWS Cognito for authentication, DynamoDB for database storage, Twilio for phone number provision, and Perplexity's Sonar API for providing users with intelligent responses to their queries while including real-time online information.
+<div>
+  <img src="https://github.com/jcswanson/tisi-images/blob/main/tisi-icon-drk.png?raw=true" title="Tisi" alt="Tisi" width="100" height="100"/>
+</div>
+- I’m currently involved building an SMS text message to search AI service called Text It Search It, aka Tisi. I have built this project using React Typescript and Express.js, while utilizing GitHub Action workflows to dockerize and deploy it to AWS EC2 and ECR.
+- The experience I've gained during this project has been immense. I built the service, ran a year of beta tests, adopted the Stripe API to set up payment processing, took advantage of AWS Cognito SDK to automate some of the authentication, stored user information using an AWS DynamoDB database, and used AWS Lambdas to facilitate the service and process Stripe webhooks to keep the database of Stripe and AWS in sync.
+  - So far I have over 80 paid subscribers to Tisi with monthly and annual subscriptions. 
 
 <!--
 **jcswanson/jcswanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
