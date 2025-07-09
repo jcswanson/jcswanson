@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jcswanson&theme=light&background=f2f2f2)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcswanson&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=275&ring=FF0E0E&fire=FFA300&currStreakNum=05EB09&currStreakLabel=5371EB&stroke=000000&dates=17073C&border=02010147" alt="GitHub Streak" /></a>
 </p>
 ---
 
