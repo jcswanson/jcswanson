@@ -5,8 +5,8 @@
 </p>
 </div>
 - I’m currently involved building an SMS text message to search AI service called Text It Search It, aka Tisi, in coordination with Sierra Nevada Digital LLC. They've given me AWS credits to use towards a goal they would like implemented but didn't have the expertise with AWS to do. So, I have built this project using React Typescript and Express.js, while utilizing GitHub Action workflows to dockerize and deploy it to AWS EC2 and ECR. The experience I've gained during this project has been immense. I built the service, ran a year of beta tests, adopted the Stripe API to set up payment processing, took advantage of AWS Cognito SDK to automate some of the authentication, stored user information using an AWS DynamoDB database, and used AWS Lambdas to facilitate the service and process Stripe webhooks to keep the database of Stripe and AWS DynamoDB in sync.
----
 
+---
 ### :fire: My Stats :
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcswanson&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=275&ring=FF0E0E&fire=FFA300&currStreakNum=05EB09&currStreakLabel=5371EB&stroke=000000&dates=17073C&border=02010147" alt="GitHub Streak" /></a>
@@ -31,6 +31,7 @@
 </p>
 </div>
 
+---
 ## Oh, How I love cheesy coding jokes way too much...
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dfdfdf&codeColor=%232a8b7a&textColor=%23333333&qColor=%23015eaa&aColor=%23af3232" alt="Jokes Card" />
