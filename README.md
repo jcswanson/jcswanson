@@ -38,4 +38,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ### Oh, How I love cheesy coding jokes way too much...
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dfdfdf&codeColor=%232a8b7a&textColor=%23333333&qColor=%23015eaa&aColor=%23af3232" alt="Jokes Card" />
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23dfdfdf&codeColor=%232a8b7a&textColor=%23333333&qColor=%23015eaa&aColor=%23af3232)
