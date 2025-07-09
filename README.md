@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jcswanson&theme=light&background=f2f2f2)](https://git.io/streak-stats)
+</p>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
